@@ -1,0 +1,72 @@
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.deps.json
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.runtimeconfig.json
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.runtimeconfig.dev.json
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.dll
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.pdb
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Data.dll
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Models.dll
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Data.pdb
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Models.pdb
+C:\ProgramData\newFolder\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.AssemblyReference.cache
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.AssemblyInfoInputs.cache
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.AssemblyInfo.cs
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.CoreCompileInputs.cache
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.CopyComplete
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.dll
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.pdb
+C:\ProgramData\newFolder\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.genruntimeconfig.cache
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.deps.json
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.runtimeconfig.json
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.runtimeconfig.dev.json
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Data.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Models.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Data.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Models.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.AssemblyReference.cache
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.AssemblyInfoInputs.cache
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.AssemblyInfo.cs
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.CoreCompileInputs.cache
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.CopyComplete
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.genruntimeconfig.cache
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.deps.json
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.runtimeconfig.json
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.runtimeconfig.dev.json
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.dll
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Web.pdb
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Data.dll
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Models.dll
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Data.pdb
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\KittenApp.Models.pdb
+C:\ProgramData\FullCats New\KittenApp.Web\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.AssemblyReference.cache
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.AssemblyInfoInputs.cache
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.AssemblyInfo.cs
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.CoreCompileInputs.cache
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.csproj.CopyComplete
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.dll
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.pdb
+C:\ProgramData\FullCats New\KittenApp.Web\obj\Debug\netcoreapp2.0\KittenApp.Web.genruntimeconfig.cache

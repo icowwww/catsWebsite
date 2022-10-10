@@ -1,0 +1,30 @@
+C:\ProgramData\newFolder\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\ProgramData\newFolder\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\newFolder\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.AssemblyReference.cache
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.AssemblyReference.cache
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\CatsProject\Software-University\New folder (7)\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\FullCats New\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\ProgramData\FullCats New\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\FullCats New\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.AssemblyReference.cache
+C:\ProgramData\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\ProgramData\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\ProgramData\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\ProgramData\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\FullCats New\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
